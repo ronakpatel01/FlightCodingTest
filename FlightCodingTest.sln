@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightCodingTest", "FlightCodingTest\FlightCodingTest.csproj", "{C0E4EF7F-84E5-454A-8E9F-6197C7C385DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightCodingTest.Test", "FlightCodingTest.Test\FlightCodingTest.Test.csproj", "{56C8EBA3-C44B-447E-9342-1267455BA563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightCodingTest.ConsoleApp", "FlightCodingTest.ConsoleApp\FlightCodingTest.ConsoleApp.csproj", "{501ED521-B0F5-4A3D-A818-CFA841F5EFF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C0E4EF7F-84E5-454A-8E9F-6197C7C385DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0E4EF7F-84E5-454A-8E9F-6197C7C385DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0E4EF7F-84E5-454A-8E9F-6197C7C385DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C8EBA3-C44B-447E-9342-1267455BA563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C8EBA3-C44B-447E-9342-1267455BA563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C8EBA3-C44B-447E-9342-1267455BA563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C8EBA3-C44B-447E-9342-1267455BA563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501ED521-B0F5-4A3D-A818-CFA841F5EFF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501ED521-B0F5-4A3D-A818-CFA841F5EFF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501ED521-B0F5-4A3D-A818-CFA841F5EFF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501ED521-B0F5-4A3D-A818-CFA841F5EFF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
